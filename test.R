@@ -9,3 +9,6 @@ y <- rnorm (10000, mean =0, sd = 2)
 library (ggplot2)
 qplot (x, y)
 
+# lalalalalalal
+
+z <- rnorm (1000, mean = 20, sd = 1)
